@@ -5,7 +5,7 @@
 
 import React from 'react';
 import {render} from 'react-dom';
-
+import './StripeCardPage.css';
 // import type {StripeProps} from '../src/components/inject';
 
 import {
